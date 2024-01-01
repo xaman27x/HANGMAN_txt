@@ -1,0 +1,1 @@
+# For now, the Hangman game doesn't have external dependencies.
